@@ -13,7 +13,7 @@ In this project, I had to implement a pixel art editor where the user can choose
 <details>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/120792207/220179689-d060b558-d61e-498f-97cc-0bb3bf70740f.png" width="1920px"/>
+<img src="https://user-images.githubusercontent.com/120792207/220179689-d060b558-d61e-498f-97cc-0bb3bf70740f.png" width="640px"/>
 </div>
 
 </details>
