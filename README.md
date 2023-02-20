@@ -6,6 +6,8 @@ Neste projeto, tive que implementar um editor de arte com pixels em que a pessoa
 
 In this project, I had to implement a pixel art editor where the user can choose a color from a color palette and can paint whatever he wants on a whiteboard 🎨 🧑‍🎨
 
+<summary><strong>🛠 Projeto ainda precisa de alguns ajustes, finalizar requisito 15 e organizar melhor o código</strong></summary><br />
+
 ## Demonstração
 
 <details>
