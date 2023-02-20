@@ -1,4 +1,4 @@
-# Bem-Vindo ao repositório do projeto de Lições Aprendidas!
+# Bem-Vindo ao repositório do projeto Arte com Pixels!
 
 <summary><strong>🧑‍💻 O que foi desenvolvido no projeto</strong></summary><br />
 
