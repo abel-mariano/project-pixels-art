@@ -28,16 +28,17 @@ In this project, I had to implement a pixel art editor where the user can choose
 ## :mortar_board: Author
 
 <table align="center">
-    <tr>
-        <td align="center">
-            <a href="https://github.com/abel-mariano">
-                <img src="https://avatars.githubusercontent.com/abel-mariano" width="100px;" alt="Image do user" />
-                <br />
-                <sub><b>Abel Mariano</b></sub>
-            </a>           
-        </td>    
-    </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/abel-mariano">
+        <img src="https://avatars.githubusercontent.com/abel-mariano" width="100px;" alt="Image do user" />
+        <br />
+        <sub><b>Abel Mariano</b></sub>
+      </a>           
+    </td>    
+  </tr>
 </table>
+
 <h4 align="center">
-   Made by  <a href="https://www.linkedin.com/in/abelmariano/" target="_blank"> Abel Mariano </a>
+  Made by  <a href="https://www.linkedin.com/in/abelmariano/" target="_blank"> Abel Mariano </a>
 </h4>
